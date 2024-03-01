@@ -21,3 +21,5 @@ Running class Notes..
 18-> SUBQUERY NOTES
 19-> ATTRIBUTES AND FUNCTION DEPENDENCY
 20-> SQL NOTES [START TO END]
+21 -> ER Diagram
+22 -> Sql Interview Questions
